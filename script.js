@@ -53,7 +53,7 @@ function generatePassword() {
   // generate the password based off the criteria
 
   // `return` that password
-  return "Avery";
+  return password;
 }
 
 // Add event listener to generate button
